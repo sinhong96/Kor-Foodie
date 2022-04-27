@@ -27,12 +27,13 @@ Click this link to run our demo app
 [Kor-Foodie Demo App](https://korfoodiev1.herokuapp.com/)
 
 ## How it works
-Step 1             |  Step 2             |  Step 3            
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S1.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S2.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S3.jpg" width="250" height="500">
-Step 4             |  Step 5    
+Step 1             |  Step 2              
 :-------------------------:|:-------------------------:
-<img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S4.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S5.jpg" width="250" height="500">
+<img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S1.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S2.jpg" width="250" height="500">   
+Step 3             |  Step 4    
+<img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S3.jpg" width="250" height="500"> | <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S4.jpg" width="250" height="500">   |   
+Step 5             
+<img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S5.jpg" width="250" height="500">
 
 ## Heroku Deployment
 
