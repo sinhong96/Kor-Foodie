@@ -27,6 +27,9 @@ Click this link to run our demo app
 [Kor-Foodie Demo App](https://korfoodiev1.herokuapp.com/)
 
 ## How it works
+- The flow of how Kor-Foodie-App work at backend is as depicted in the figure below
+![app_flow](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/design_of_Kor_Foodie App.png?raw=true )
+
 Screen 1: Homepage             |  Screen 2: Take photo with camera or choose image from gallery              
 :-------------------------:|:-------------------------:
 <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S1.jpg" width="250" height="500">   |   <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S2.jpg" width="250" height="500">   
@@ -36,6 +39,10 @@ Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of
 ## Heroku Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://korfoodiev1.herokuapp.com/)
+
+## Flow of the Deplopyment of App to Heroku through Docker
+- The flow of how Kor-Foodie-App is deployed is as shown in the figure below. 
+![app_deploy](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/deploy_flowV1.png?raw=true )
 
 ## License
 
