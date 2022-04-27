@@ -27,7 +27,7 @@ Click this link to run our demo app
 [Kor-Foodie Demo App](https://korfoodiev1.herokuapp.com/)
 
 ## How it works
-![Step 1](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S1.jpg?raw=true "Step1")
+![Step 1](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S1.jpg =250x100 "Step1")
 
 ## Heroku Deployment
 
