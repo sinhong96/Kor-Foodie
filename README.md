@@ -8,17 +8,6 @@ This repo contains a sample code to show how to create a Flask API server by dep
 
 The deployment of flask application to Heroku through Docker is with the reference of [Flask-Docker-Heroku](https://medium.com/@ashok7067/containerise-your-python-flask-using-docker-and-deploy-it-onto-heroku-a0b48d025e43).
 
-## Requirements
-
-Install them from 'requirements.txt':
-
-    pip install -r requirements.txt
-
-## Local Deployment
-
-Run the server:
-
-    python app.py
 
 ## Our Demo App
 
@@ -43,9 +32,17 @@ Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of
 ## Flow of the Deplopyment of App to Heroku through Docker
 - The flow of how Kor-Foodie-App is deployed is as shown in the figure below. 
 ![app_deploy](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/deploy_flowV1.png?raw=true )
+## Requirements
 
-## License
+Install them from 'requirements.txt':
 
-Please check 'LICENSE' for more details.
+    pip install -r requirements.txt
+
+## Local Deployment
+
+Run the server:
+
+    python app.py
+
 
 Please star this github repo if you like the content. Thank you ~
