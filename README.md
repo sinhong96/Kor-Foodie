@@ -25,11 +25,8 @@ Screen 1: Homepage             |  Screen 2: Take photo with camera or choose ima
 Screen 3: Preview uploaded image             |  Screen 4: Retrieve prediction of food and corresponding nutrient content                  
 <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S4.jpg" width="250" height="500"> | <img src="https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/S5.jpg" width="250" height="500">   
 
-## Heroku Deployment
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://korfoodiev1.herokuapp.com/)
-
 ## Flow of the Deplopyment of App to Heroku through Docker
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://korfoodiev1.herokuapp.com/)
 - The flow of how Kor-Foodie-App is deployed is as shown in the figure below. 
 ![app_deploy](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/deploy_flowV1.png?raw=true )
 ## Requirements
