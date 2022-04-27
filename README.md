@@ -28,7 +28,7 @@ Click this link to run our demo app
 
 ## How it works
 - The flow of how Kor-Foodie-App work at backend is as depicted in the figure below
-![app_flow](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/design of Kor_Foodie App.png?raw=true )
+![app_flow](https://github.com/sinhong96/Kor-Foodie/blob/main/app_screen/design_of_Kor_Foodie App.png?raw=true )
 
 Screen 1: Homepage             |  Screen 2: Take photo with camera or choose image from gallery              
 :-------------------------:|:-------------------------:
